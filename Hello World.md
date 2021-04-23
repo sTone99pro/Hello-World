@@ -30,5 +30,11 @@ int main()
 | BOB | 02  |
 
 
+Whatever is __worth doing__ is worth doing well.  
 
+Whatever is _worth doing_ is worth doing well
+
+Whatever is ==worth doing== is worth doing well.  
+
+Whatever is ~~worth doing~~ is worth doing well
 
