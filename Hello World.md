@@ -25,9 +25,9 @@ int main()
 3. Mar.
 4. Apr.
 
-- NAME|ID
-- Bob| 01
-- Tom| 02
+ NAME-ID
+ Bob| 01
+ Tom| 02
 
 
 
